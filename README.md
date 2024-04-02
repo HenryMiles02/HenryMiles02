@@ -12,10 +12,3 @@
 </div>
  
 <br>
- 
-### Minhas redes sociais aqui abaixo:
- 
-<div> 
-  <a href="https://www.instagram.com/miles_henrique/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/carlos-henrique-89226b257" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
